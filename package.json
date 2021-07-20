@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "^0.60.0-0",
+    "react-native": "^0.62.3",
     "react-native-windows": "0.60.0-vnext.136",
     "rnpm-plugin-windows": "^0.4.1",
     "scheduler": "0.14.0"
